@@ -1,0 +1,3 @@
+[submodule "uic"]
+	path = uic
+	url = https://github.com/UlricQin/uic.git
