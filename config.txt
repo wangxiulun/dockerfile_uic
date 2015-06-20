@@ -4,7 +4,7 @@ password = {DB_PWD}
 devMode = false
 memcacheAddrs = {MC_ADDR}
 canRegister = false
-token =
+token = {UIC_TOKEN}
 
 ldapEnabled = false
 ldapHost = ldap.company.com
